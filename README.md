@@ -1,1 +1,1 @@
-# Admin-Panel
+# Machine Learning Assignments

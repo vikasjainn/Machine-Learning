@@ -1,1 +1,1 @@
-# Machine Learning Assignments 6th sem
+# Machine Learning Assignments.

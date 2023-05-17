@@ -1,1 +1,1 @@
-# Machine Learning Assignments by Vikas
+# Machine Learning Assignments

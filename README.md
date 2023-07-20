@@ -1,2 +1,2 @@
-# Machine Learning Assignments vikas
+# Machine Learning Assignments 
 
